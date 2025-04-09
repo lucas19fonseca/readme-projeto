@@ -36,6 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
   <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
 </p>
 
 <p align="justify">
