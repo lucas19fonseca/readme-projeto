@@ -1,6 +1,6 @@
 <p align="center" id="sobre"><img src="./SPA/src/assets/img/bee-logo-color.svg" width="200px"/></p>
 
-<h1 align="center">Business Enterprise E-commerce</h1>
+<h1 align="center">Kubo</h1>
 
 <p align="justify">
     O sistema BEE (Business Enterprise E-commerce) é um projeto
@@ -71,7 +71,7 @@ Abaixo, segue uma lista com links e documentos úteis.
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentacaoEndpoints.md">Documentação dos Endpoints</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deployAPI.md">Instalação da API</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deploySPA.md">Instalação da SPA</a>
-- <a href="https://www.figma.com/file/9XUhANzTUsepjryBKGDBi0/BEE?node-id=0%3A1">Protótipo de telas do Figma</a>
+- <a href="https://www.figma.com/design/BJx2dRFO2WooBAhdllH5q9/Projeto-Integrador?node-id=0-1&p=f&t=ab65bYhi6Djf1Pr4-0">Protótipo de telas do Figma</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/diagramaDeEntidadeRelacionamento.pdf">Modelo Entidade e Relacionamento</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentoDeRequisitos.pdf">Documento de Requisitos</a>
 
@@ -112,31 +112,31 @@ Tela inicial da parte do administrador
 <table align="center">
     <tr>
         <td align="center">
-            <a href="https://github.com/aldeirnohan">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47931404?v=4" width="80px;" alt="Foto de Claudio Henrique"/>
+            <a href="https://github.com/PedroDiOliveira">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47931404?v=4" width="80px;" alt="Foto de Pedro oliveira"/>
                 <br/>
-                <b>Aldeir Nohan</b>
+                <b>Pedro Oliveira</b>
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/claudiohenriquefds">
+            <a href="https://github.com/lucas19fonseca">
                 <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/30199497?v=4" width="80px;" alt="Foto de Claudio Henrique"/>
                 <br/>
-                <b>Cláudio Henrique</b>
+                <b>Lucas Fonseca</b>
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/marciosamuel">
-                <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43766556?v=4" width="80px;" alt="Foto de Marcio Samuel"/>
+            <a href="https://github.com/PedroDelgo">
+                <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43766556?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
                 <br/>
-                <b>Marcio Samuel</b>
+                <b>Pedro Delgado</b>
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/mateusgs29">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61122185?v=4" width="80px;" alt="Foto de Mateus Gomes"/>
+            <a href="https://github.com/gabriellima-4">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61122185?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
                 <br/>
-                <b>Mateus Gomes</b>
+                <b>Gabriel Lima</b>
             </a>
         </td>
     </tr>
