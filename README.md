@@ -78,7 +78,7 @@ Abaixo, segue uma lista com links e documentos úteis.
 <h2 id="licenca">Licença</h2>
 
 <p  align="justify">
-Este projeto está sob licença do MIT que permite a qualquer pessoa que obtém uma cópia do software e seus arquivos de documentação associados poder lidar com eles sem restrição ou limitação aos direitos de uso. As condições impostas são de apenas manter o aviso de copyright e uma cópia da <a href="https://github.com/WebII-2020-2/BEE/blob/main/LICENSE">licença</a> em todas as reproduções do software.
+nao tem ainda
 </p>
 
 <h2 id="screenshots">Screenshots</h2>
