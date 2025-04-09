@@ -1,24 +1,8 @@
-<p align="center" id="sobre"><img src="./SPA/src/assets/img/bee-logo-color.svg" width="200px"/></p>
-
+<p align="center" id="sobre"><img src="https://avatars.githubusercontent.com/u/202138232?s=200&v=4" height="100"/></p> 
 <h1 align="center">Kubo</h1>
 
 <p align="justify">
-    O sistema BEE (Business Enterprise E-commerce) é um projeto
-    desenvolvido para a matéria de Laboratório de Programação Web 2 do
-    curso de Análise e Desenvolvimento de Sistemas. Ele tem o intuito de
-    ser um sistema de e-commerce com a parte do administrador, que
-    gerencia os produtos, categorias, promoções, banners e vendas, além de
-    conseguir gerar um relatório mensal. Na parte do cliente, ele é capaz
-    de visualizar os produtos, gerenciar seus dados, cartões e endereços,
-    realizar uma compra e visualizar os detalhes dos pedidos efetuados.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MIT-FCA311?style=flat-square&label=License&Color=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/repo-size/WebII-2020-2/BEE?color=FCA311&label=Repo%20Size&style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/last-commit/WebII-2020-2/BEE?color=FCA311&label=Last%20Commit&style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Stable-FCA311?style=flat-square&label=Status&Color=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/v1.0-FCA311?style=flat-square&label=Version&Color=white&labelColor=0D1117" />
+   O sistema foi desenvolvido para a matéria de Projeto Integrador do curso de Ciência da Computação. Ele tem o intuito de ser uma plataforma de apoio para estudantes de Arquitetura, permitindo a visualização de diversas obras, como casas, igrejas e estruturas em geral, apresentando informações detalhadas sobre cada uma delas, como autor, altura, largura e planta da obra. Além disso, o sistema conta com uma área de flashcards para que os usuários possam testar seus conhecimentos sobre arquitetura de forma prática e interativa.
 </p>
 
 <p align="center">
@@ -35,10 +19,8 @@
 <h3>Front-End</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap" />
-    <img src="https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel" />
-
 </p>
 
 <p align="justify">
@@ -52,10 +34,8 @@
 <h3>Back-End</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/-google_cloud-0D1117?style=for-the-badge&logo=googlecloud" />
-  <img src="https://img.shields.io/badge/-heroku-0D1117?style=for-the-badge&logo=heroku" />
+  <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
+  <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
 <p align="justify">
@@ -113,28 +93,28 @@ Tela inicial da parte do administrador
     <tr>
         <td align="center">
             <a href="https://github.com/PedroDiOliveira">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47931404?v=4" width="80px;" alt="Foto de Pedro oliveira"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473107?v=4" width="80px;" alt="Foto de Pedro oliveira"/>
                 <br/>
                 <b>Pedro Oliveira</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/lucas19fonseca">
-                <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/30199497?v=4" width="80px;" alt="Foto de Claudio Henrique"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473218?s=400&u=2f5a424572b24dac442e7a193d05f341f6e6f880&v=4" width="80px;" alt="Foto de Lucas Fonseca"/>
                 <br/>
                 <b>Lucas Fonseca</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/PedroDelgo">
-                <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/43766556?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
                 <br/>
                 <b>Pedro Delgado</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/gabriellima-4">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61122185?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
                 <br/>
                 <b>Gabriel Lima</b>
             </a>
