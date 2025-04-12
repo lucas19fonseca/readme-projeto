@@ -2,7 +2,7 @@
 <h1 align="center">Kubo</h1>
 
 <p align="justify">
-   O sistema foi desenvolvido para a matéria de Projeto Integrador do curso de Ciência da Computação. Ele tem o intuito de ser uma plataforma de apoio para estudantes de Arquitetura, permitindo a visualização de diversas obras, como casas, igrejas e estruturas em geral, apresentando informações detalhadas sobre cada uma delas, como autor, altura, largura e planta da obra. Além disso, o sistema conta com uma área de flashcards para que os usuários possam testar seus conhecimentos sobre arquitetura de forma prática e interativa.
+   O sistema foi desenvolvido para a matéria de Projeto Integrador do curso de Ciência da Computação. Ele tem o intuito de ser uma plataforma de apoio para estudantes de Arquitetura, permitindo a visualização de diversas obras, como casas, igrejas e estruturas em geral, apresentando informações detalhadas sobre cada uma delas, como autor, altura, largura e planta da obra.
 </p>
 
 <p align="center">
@@ -53,7 +53,6 @@ Abaixo, segue uma lista com links e documentos úteis.
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deployAPI.md">Instalação da API</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deploySPA.md">Instalação da SPA</a>
 - <a href="https://www.figma.com/design/BJx2dRFO2WooBAhdllH5q9/Projeto-Integrador?node-id=0-1&p=f&t=ab65bYhi6Djf1Pr4-0">Protótipo de telas do Figma</a>
-- <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/diagramaDeEntidadeRelacionamento.pdf">Modelo Entidade e Relacionamento</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentoDeRequisitos.pdf">Documento de Requisitos</a>
 
 <h2 id="licenca">Licença</h2>
