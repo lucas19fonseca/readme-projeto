@@ -1,6 +1,6 @@
-<p align="center" id="sobre"><img src="https://avatars.githubusercontent.com/u/202138232?s=200&v=4" height="100"/></p> 
-<h1 align="center">Kubo</h1>
-
+   <p align="center"  id="sobre"><img src="https://avatars.githubusercontent.com/u/202138232?s=200&v=4" height="100"/></p> 
+   <h1 align="center">Kubo</h1>
+   
 <p align="justify">
    O sistema foi desenvolvido para a matéria de Projeto Integrador do curso de Ciência da Computação. Ele tem o intuito de ser uma plataforma de apoio para estudantes de Arquitetura, permitindo a visualização de diversas obras, como casas, igrejas e estruturas em geral, apresentando informações detalhadas sobre cada uma delas, como autor, altura, largura e planta da obra.
 </p>
@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=bootstrap" />
 </p>
 
 <p align="justify">
@@ -66,7 +65,7 @@ nao tem ainda
 <div align="center">
 
 Tela inicial do sistema
-<img src="./screenshots/home-bee.png" alt="Tela inicial do sistema" />
+<img src="" alt="Tela de home" />
 
 Login do usuário
 <img src="./screenshots/login-user.png" alt="Tela de login do usuário" />
