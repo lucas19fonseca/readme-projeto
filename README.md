@@ -1,15 +1,14 @@
-   <p align="center"  id="sobre"><img src="https://avatars.githubusercontent.com/u/202138232?s=200&v=4" height="100"/></p> 
-   <h1 align="center">Kubo</h1>
+   <p align="center"  id="sobre"><img src="https://cdn-icons-png.flaticon.com/128/481/481705.png" height="100"/></p> 
+   <h1 align="center">Myson</h1>
    
 <p align="justify">
-   O sistema foi desenvolvido para a matéria de Projeto Integrador do curso de Ciência da Computação. Ele tem o intuito de ser uma plataforma de apoio para estudantes de Arquitetura, permitindo a visualização de diversas obras, como casas, igrejas e estruturas em geral, apresentando informações detalhadas sobre cada uma delas, como autor, altura, largura e planta da obra.
+  O trabalho da disciplina de Programação para Dispositivos Web consiste em desenvolver um aplicativo Android no Android Studio, utilizando XML para a criação das interfaces. O app será voltado para cuidados com bebês e deverá conter duas funções principais: um relatório de sono, onde será possível registrar e acompanhar os horários de descanso do bebê, e um relatório de alimentação, para anotar os horários e tipos de alimentação oferecidos. O objetivo é aplicar os conceitos de criação de interfaces para dispositivos móveis, organizando as informações de forma simples e funcional para os usuários.
 </p>
 
 <p align="center">
   <a href="#sobre">Sobre</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#links">Links úteis</a> •
-  <a href="#licenca">Licença</a> •
   <a href="#screenshots">Screenshots</a> •
   <a href="#autores">Autores</a>
 </p>
@@ -18,8 +17,7 @@
 
 <h3>Front-End</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="dadadada" />
 </p>
 
 <p align="justify">
@@ -33,9 +31,7 @@
 <h3>Back-End</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF" />
-  <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="#" />
 </p>
 
 <p align="justify">
@@ -51,14 +47,8 @@ Abaixo, segue uma lista com links e documentos úteis.
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentacaoEndpoints.md">Documentação dos Endpoints</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deployAPI.md">Instalação da API</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deploySPA.md">Instalação da SPA</a>
-- <a href="https://www.figma.com/design/BJx2dRFO2WooBAhdllH5q9/Projeto-Integrador?node-id=0-1&p=f&t=ab65bYhi6Djf1Pr4-0">Protótipo de telas do Figma</a>
+- <a href="https://www.figma.com/design/umNAXKs3sbiyEMQfvj7YTi/Myson?node-id=0-1&p=f&t=hE5MYPWryepqeOzF-0">Protótipo de telas do Figma</a>
 - <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentoDeRequisitos.pdf">Documento de Requisitos</a>
-
-<h2 id="licenca">Licença</h2>
-
-<p  align="justify">
-nao tem ainda
-</p>
 
 <h2 id="screenshots">Screenshots</h2>
 
@@ -92,9 +82,9 @@ Tela inicial da parte do administrador
     <tr>
         <td align="center">
             <a href="https://github.com/PedroDiOliveira">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473107?v=4" width="80px;" alt="Foto de Pedro oliveira"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473107?v=4" width="80px;" alt="Foto de Eduardo"/>
                 <br/>
-                <b>Pedro Oliveira</b>
+                <b>Eduardo</b>
             </a>
         </td>
         <td align="center">
@@ -106,16 +96,16 @@ Tela inicial da parte do administrador
         </td>
         <td align="center">
             <a href="https://github.com/PedroDelgo">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de João Guilherme"/>
                 <br/>
-                <b>Pedro Delgado</b>
+                <b>João Guilherme</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/gabriellima-4">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de João Pedro"/>
                 <br/>
-                <b>Gabriel Lima</b>
+                <b>João Pedro</b>
             </a>
         </td>
     </tr>
