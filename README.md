@@ -95,15 +95,15 @@ Tela inicial da parte do administrador
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/PedroDelgo">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de João Guilherme"/>
+            <a href="https://github.com/joaogpereira">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472677?v=4" width="80px;" alt="Foto de João Guilherme"/>
                 <br/>
                 <b>João Guilherme</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/gabriellima-4">
-                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de João Pedro"/>
+                <img style="border-radius: 50%;" src="#" width="80px;" alt="Foto de João Pedro"/>
                 <br/>
                 <b>João Pedro</b>
             </a>
